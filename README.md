@@ -1,4 +1,4 @@
-# Kodluyoruz HTML dersleri Odev-1
+# Kodluyoruz HTML dersleri Odevlerı-1,2
 
 ## Kaynaklar
 [Patika.Dev](https://www.patika.dev/tr)
