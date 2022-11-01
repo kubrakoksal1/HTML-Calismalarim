@@ -1,6 +1,6 @@
 # Kodluyoruz ve Patika.Dev kursundaki HTML Calısmalarımın hepsi
 ## index.html dosyasında Kişisel Web Sayfası çalışması yapıldı.
-![index.JPG](http://url/to/index.JPG)
+![index.JPG](https://github.com/kubrakoksal1/HTML-Calismalarim/blob/main/img/index.JPG)
 
 ## kodluyruz-front-end klasöründe bölüm sonu çalışması yapıldı.
 
